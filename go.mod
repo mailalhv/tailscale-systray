@@ -1,4 +1,4 @@
-module github.com/mattn/tailscale-systray
+module github.com/mailalhv/tailscale-systray
 
 go 1.17
 
