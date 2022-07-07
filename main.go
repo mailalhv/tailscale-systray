@@ -12,7 +12,8 @@ import (
 
 	"github.com/atotto/clipboard"
 	"github.com/gen2brain/beeep"
-	"github.com/getlantern/systray"
+	//"github.com/getlantern/systray"
+	"github.com/nekr0z/systray"
 )
 
 var (
