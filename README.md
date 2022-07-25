@@ -25,12 +25,12 @@ sudo apt-get install gcc libgtk-3-dev libappindicator3-dev
 ```
 Building app which worked for me with following system conditions
   (
-    Operating System: Kubuntu 22.10
-    KDE Plasma Version: 5.25.3
-    KDE Frameworks Version: 5.96.0
-    Qt Version: 5.15.4
-    Kernel Version: 5.16.0-051600-generic (64-bit)
-    Graphics Platform: X11
+  - Operating System: Kubuntu 22.10
+  - KDE Plasma Version: 5.25.3
+  - KDE Frameworks Version: 5.96.0
+  - Qt Version: 5.15.4
+  - Kernel Version: 5.16.0-051600-generic (64-bit)
+  - Graphics Platform: X11
   ) 
 
 ```
