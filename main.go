@@ -62,7 +62,7 @@ func onReady() {
 	mDisconnect.Disable()
 
 	if executable("pkexec") {
-		go doConnectionControl(mConnect, "up")
+		go doConnectionControl(mConnect, "up --accept-routes")
 		go doConnectionControl(mDisconnect, "down")
 	} else {
 		mConnect.Hide()
